@@ -1,0 +1,22 @@
+def operacao(a, b, op):
+    if op == "+":
+        resultado = a + b
+    elif op == "-":
+        resultado = a - b
+    elif op == "*":
+        resultado = a * b
+    elif op == "/":
+        if b == 0:
+            resultado = "Erro! Não é possível dividir por zero."
+        else:
+            resultado = a / b
+    else:
+        resultado = "Operador Inválido!"
+        
+    return resultado
+
+numero1 = float(input("Digite o valor para número1: "))
+numero2 = float(input("Digite o valor para número2: "))
+op = input("Escolha uma operação: +, -, *, / : ")
+
+print(f"O resultado é {operacao(numero1, numero2, op)}")
