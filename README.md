@@ -1,4 +1,4 @@
-🧡 Projeto Florescendo Talentos
+🧡 Projeto Florescendo Talentos | Tutora: Isabela Karla 
 ## Lógica de Programação | Turma 1 — EREM Rosa de Magalhães Melo
 
 Bem-vindo(a) ao repositório da nossa **Primeira Aula** de Lógica de Programação! Este espaço foi criado para guardar o código que desenvolvemos juntos e servir de apoio para os seus estudos.
