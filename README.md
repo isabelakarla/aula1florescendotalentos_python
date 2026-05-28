@@ -29,7 +29,7 @@ O código final é capaz de realizar as quatro operações matemáticas básicas
 4. Divisão (`/`)
 
 Como executar o código:
-1. Como não é possível termos uma IDE como o VS Code, acesse online o site "www.gdbonline.com.br"
+1. Como não é possível termos uma IDE como o VS Code, acesse online o site "https://www.onlinegdb.com"
 2. Selecione "Python 3" na seção de linguagem.
 3. Copie e cole o código da calculadora no espaço indicado
 4. Por fim, clique em "RUN" para rodar o código
